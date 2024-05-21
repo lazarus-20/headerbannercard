@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-style: normal;
+}
+.header-container{
+    background-attachment: fixed;
+    padding: 19px;
+}
+ul{
+    display:flex;
+    padding:12px
+
+}
+.menu-item{
+    list-style-type:circle;
+}
+.item{
+    list-style-type: none;
+
+}
+.banner-container{
+    margin: 0px;
+    
+}
+img{
+
+    width: 100%;
+  }
+.card-container{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 16px;
+  }
+.circuit-card{
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 10px 36px 0px, rgba(0, 0, 0, 0.06) 0px 0px 0px 1px;
+      width: 100%;
+      text-align: center;
+      padding: 16px;
+      margin: 16px;
+      border-radius: 8px;
+    }
+
